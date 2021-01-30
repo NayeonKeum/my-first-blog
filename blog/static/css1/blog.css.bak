@@ -7,6 +7,22 @@ body{
 	background-color: #121f5c;
 }
 
+ul{
+	background-color: #121f5c
+}
+article{
+    margin-left: 40px;
+	color: #5f7afa;
+	font-size: 15pt;
+	font-family: 'Lobster', cursive;
+}
+aside{
+    margin-left: 40px;
+	color: #5f7afa;
+	background-color:white;
+}
+
+
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
@@ -18,7 +34,6 @@ body{
 }
 
 .content {
-    margin-left: 40px;
 	color : white;
 }
 
@@ -32,17 +47,16 @@ h1, h2, h3, h4 {
 
 .save {
     float: right;
-	background-color:#e4e7f7
 }
 
 .post-form textarea, .post-form input {
     width: 100%;
     color: #121f5c;
+	background-color:#e4e7f7
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
-
     float: right;
     font-size: 26pt;
     margin-right: 20px;

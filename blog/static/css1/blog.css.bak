@@ -19,7 +19,6 @@ article{
 }
 aside{
     margin-left: 40px;
-	margin-right: 40px;
 	color: #5f7afa;
 	background-color:white;
 }
@@ -62,6 +61,7 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+	margin-right: 20px;
 }
 
 .post {

@@ -8,16 +8,18 @@ body{
 }
 
 section{
-	background-color: white;
+	background-color: #e4e7f7;
 }
 article{
     margin-left: 40px;
+	margin-right: 40px;
 	color: #5f7afa;
 	font-size: 15pt;
 	font-family: 'Lobster', cursive;
 }
 aside{
     margin-left: 40px;
+	margin-right: 40px;
 	color: #5f7afa;
 	background-color:white;
 }
